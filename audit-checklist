@@ -1,0 +1,25 @@
+# Linux Security Baseline Audit Checklist
+
+## User & Access Review
+- List all local users
+- Identify users with sudo privileges
+- Check for inactive or unnecessary accounts
+
+## File & Permission Review
+- Identify world-writable files
+- Review permissions on sensitive directories
+- Check ownership of system files
+
+## Service Review
+- List running services
+- Identify unnecessary or unused services
+- Review services listening on network ports
+
+## Logging & Monitoring
+- Verify log files exist
+- Check basic log permissions
+- Confirm logs are being written
+
+## Observations
+- Document potential risks
+- Provide basic recommendations

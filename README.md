@@ -1,4 +1,4 @@
-# linux-security-baseline-audit
+# linux-security-baseline-audit-sample
 
 ## Overview
 This project demonstrates foundational Linux security practices by performing a baseline security audit of a Linux system.
